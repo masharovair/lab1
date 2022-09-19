@@ -1,0 +1,19 @@
+a=7                             #1 команда
+b=3
+print(a+b)
+
+
+print('slovo'*3)                #2 команда
+
+
+stroka = 'Hello world'          #3 команда
+print(len(stroka))
+
+
+spisok = [1, 2, 3, 4]           #4 команда
+print(spisok)
+
+
+
+kort = (1, 2, 3, 2, 1)          #5 команда
+print(len(kort))
